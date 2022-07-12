@@ -1,0 +1,15 @@
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\obj\Debug\net6.0\DEV-Car.csproj.AssemblyReference.cache
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\obj\Debug\net6.0\DEV-Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\obj\Debug\net6.0\DEV-Car.AssemblyInfoInputs.cache
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\obj\Debug\net6.0\DEV-Car.AssemblyInfo.cs
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\obj\Debug\net6.0\DEV-Car.csproj.CoreCompileInputs.cache
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\bin\Debug\net6.0\DEV-Car.exe
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\bin\Debug\net6.0\DEV-Car.deps.json
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\bin\Debug\net6.0\DEV-Car.runtimeconfig.json
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\bin\Debug\net6.0\DEV-Car.dll
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\bin\Debug\net6.0\DEV-Car.pdb
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\obj\Debug\net6.0\DEV-Car.dll
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\obj\Debug\net6.0\refint\DEV-Car.dll
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\obj\Debug\net6.0\DEV-Car.pdb
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\obj\Debug\net6.0\DEV-Car.genruntimeconfig.cache
+D:\DEVinHOUSE\Projeto 03 C#\DEV-Car\DEV-Car\obj\Debug\net6.0\ref\DEV-Car.dll
