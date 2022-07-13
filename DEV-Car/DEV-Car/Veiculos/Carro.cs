@@ -8,7 +8,7 @@ namespace DEV_Car.Veiculos
 {
     public class Carro: Veiculo
     {
-        public Carro(int totalDePortas, string tipoCombustivel, int potenciaEmCavalos, int numeroDoChassi, int dataFrabicacao, string nome, string placa, decimal valor, decimal cPF, string cor): base(numeroDoChassi, dataFrabicacao, nome, placa, valor, cPF, cor)
+        public Carro(string nome, int totalDePortas, string tipoCombustivel, int potenciaEmCavalos, int numeroDoChassi, int dataFrabicacao, string placa, string cor, int valor) : base(nome, numeroDoChassi, dataFrabicacao, placa, cor, valor)
         {
             TotalDePortas = totalDePortas;
             TipoCombustivel = tipoCombustivel;

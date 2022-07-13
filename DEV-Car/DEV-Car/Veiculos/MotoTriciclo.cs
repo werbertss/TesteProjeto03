@@ -8,7 +8,7 @@ namespace DEV_Car.Veiculos
 {
     public class MotoTriciclo : Veiculo
     {
-        public MotoTriciclo(int potencia, int totalDeRodas, int numeroDoChassi, int dataFrabicacao, string nome, string placa, decimal valor, decimal cPF, string cor) : base(numeroDoChassi, dataFrabicacao, nome, placa, valor, cPF, cor)
+        public MotoTriciclo(string nome, int potencia, int totalDeRodas, int numeroDoChassi, int dataFrabicacao, string placa, string cor, int valor) : base(nome, numeroDoChassi, dataFrabicacao, placa, cor, valor)
         {
             Potencia = potencia;
             TotalDeRodas = totalDeRodas;

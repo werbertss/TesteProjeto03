@@ -8,14 +8,13 @@ namespace DEV_Car.Veiculos
 {
     public class Veiculo
     {
-        public Veiculo(int numeroDoChassi, int dataFrabicacao, string nome, string placa, decimal valor, decimal cPF, string cor)
+        public Veiculo(string nome,int numeroDoChassi, int dataFrabicacao, string placa, string cor, int valor)
         {
             NumeroDoChassi = numeroDoChassi;
             DataFrabicacao = dataFrabicacao;
             Nome = nome;
             Placa = placa;
             Valor = valor;
-            CPF = cPF;
             Cor = cor;
 
             //
@@ -25,20 +24,22 @@ namespace DEV_Car.Veiculos
         public int DataFrabicacao { get; set; }
         public string Nome { get; set; }
         public string Placa { get; set; }
-        public decimal Valor { get; set; }
+        public int Valor { get; set; }
 
-        public decimal CPF { get; set; }
         public string Cor { get; set; }
 
-        public void VenderVeiculo()
+        //Virtual significa que o metodo pode ser alterado. Polimorfismo
+        public virtual void VenderVeiculo()
         {
         }
 
-        public void ListarInformacoes()
+        //Virtual significa que o metodo pode ser alterado. Polimorfismo
+        public virtual void ListarInformacoes()
         {
         }
 
-        public void AlterarInformacoes()
+        //Virtual significa que o metodo pode ser alterado. Polimorfismo
+        public virtual void AlterarInformacoes()
         {
         }
 
